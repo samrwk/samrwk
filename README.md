@@ -6,10 +6,7 @@
 ---
 
 ## 🔗 My Portfolio
-Check out my personal developer portfolio built with **DeepSite**:  
-🌐 [https://huggingface.co/spaces/samrwk/my-portfolio-website](https://huggingface.co/spaces/samrwk/my-portfolio-website)
 
----
 
 ## 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
